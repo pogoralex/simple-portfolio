@@ -1,0 +1,17 @@
+{
+  "name": "simple_portfolio",
+  "version": "0.1.0",
+  "description": "simple portfolio page",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Alex Pogor",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sass-glob": "^1.0.9"
+  }
+}
